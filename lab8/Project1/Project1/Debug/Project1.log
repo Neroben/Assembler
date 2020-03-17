@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2019: ссылка на неразрешенный внешний символ _sort2 в функции _main
+C:\Users\admin\Desktop\ABC\lab8\Project1\Debug\Project1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

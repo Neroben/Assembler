@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\admin\Desktop\ABC\РГЗ\GraphicTask\GraphicTask\Main.cpp(96,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\admin\Desktop\ABC\РГЗ\GraphicTask\GraphicTask\Main.cpp(96,10): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\admin\Desktop\ABC\РГЗ\GraphicTask\GraphicTask\Main.cpp(95,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\admin\Desktop\ABC\РГЗ\GraphicTask\GraphicTask\Main.cpp(95,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  GraphicTask.vcxproj -> C:\Users\admin\Desktop\ABC\РГЗ\GraphicTask\Debug\GraphicTask.exe

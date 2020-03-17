@@ -1,0 +1,7 @@
+LIBRARY num1
+EXPORTS
+_sort1@16 = _sort1@0
+_sort2@16 = sort2
+@sort3@16 = _sort3@4
+sort4
+sort5

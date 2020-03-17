@@ -1,0 +1,5 @@
+LIBRARY protect
+EXPORTS
+?add@Complex@@QAEXAAV1@@Z = _sum@0
+??DComplex@@QAE?AV0@AAV0@@Z = _mull@0
+
